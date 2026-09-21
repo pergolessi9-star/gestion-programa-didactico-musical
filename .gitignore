@@ -1,0 +1,8 @@
+# Ficheros temporales de edición
+~$*.docx
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Exportaciones generadas (mantener solo en /export si se decide versionarlas)
+*.pdf.bak
